@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{26D471B7-AF08-0427-7EEC-FB56E701D045}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="31fe22b9-05b0-4145-a231-5a4ec5b4d995" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/Items/CrateItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game/Items/ColorBalloonItem.cs" Line="12" Column="50" />
+      <File FileName="Assets/Scripts/Game/Core/ItemBase/ItemBase.cs" Line="6" Column="15" />
+      <File FileName="Assets/Scripts/Game/Core/ItemBase/Item.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Game/Items/RocketItem.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Game/Core/ItemBase/ItemFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Items/BalloonItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Items/CrateItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Items/CubeItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Items/SpecialItem.cs" Line="20" Column="10" />
+      <File FileName="Assets/Scripts/Game/Core/Enums/ItemType.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unithon-Case-13" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Atlases" expanded="True" />
+              <Node name="Materials" expanded="True" />
+              <Node name="Prefabs" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="Enums" expanded="True" />
+                    <Node name="ItemBase" expanded="True" />
+                  </Node>
+                  <Node name="Items" expanded="True">
+                    <Node name="CrateItem.cs" selected="True" />
+                  </Node>
+                  <Node name="Levels" expanded="True" />
+                  <Node name="Managers" expanded="True" />
+                  <Node name="Mechanics" expanded="True" />
+                </Node>
+                <Node name="Settings" expanded="True" />
+                <Node name="Utils" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
